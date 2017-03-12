@@ -1,0 +1,606 @@
+{"menu": [
+    {
+        "id": "3",
+        "text": "Сотовая связь",
+        "img": "/files_docum_content_sprav/3_docc_fld3.jpg",
+        "menu": [
+            {
+                "text": "Билайн",
+                "img": "/files_docum_content_schema/1_docc_fld4.jpg",
+                "schema_id": 1
+            },
+            {
+                "text": "МТС",
+                "img": "/files_docum_content_schema/2_docc_fld4.jpg",
+                "schema_id": 2
+            },
+            {
+                "text": "Таттелеком",
+                "img": "/files_docum_content_schema/5_docc_fld4.jpg",
+                "schema_id": 5
+            },
+            {
+                "text": "YOTA Сотовая связь",
+                "img": "/files_docum_content_schema/6_docc_fld4.jpg",
+                "schema_id": 6
+            },
+            {
+                "text": "Ростелеком МРФ Урал",
+                "img": "/files_docum_content_schema/7_docc_fld4.jpg",
+                "schema_id": 7
+            },
+            {
+                "text": "Ростелеком МРФ Волга",
+                "img": "/files_docum_content_schema/8_docc_fld4.jpg",
+                "schema_id": 8
+            },
+            {
+                "text": "ТЕЛЕ2",
+                "img": "/files_docum_content_schema/46_docc_fld4.jpg",
+                "schema_id": 46
+            },
+            {
+                "text": "SIMTRAVEL",
+                "img": "/files_docum_content_schema/47_docc_fld4.jpg",
+                "schema_id": 47
+            },
+            {
+                "ids": "5",
+                "text": "Мегафон",
+                "img": "/files_docum_content_sprav/5_docc_fld3.jpg",
+                "menu": [
+                    {
+                        "text": "Мегафон-Поволжье",
+                        "img": "/files_docum_content_schema/3_docc_fld4.jpg",
+                        "schema_id": 3
+                    },
+                    {
+                        "text": "Мегафон-Центр",
+                        "img": "/files_docum_content_schema/4_docc_fld4.jpg",
+                        "schema_id": 4
+                    },
+                    {
+                        "text": "Мегафон-Дальний восток",
+                        "img": "/files_docum_content_schema/15_docc_fld4.jpg",
+                        "schema_id": 15
+                    },
+                    {
+                        "text": "Мегафон-Москва",
+                        "img": "/files_docum_content_schema/16_docc_fld4.jpg",
+                        "schema_id": 16
+                    },
+                    {
+                        "text": "Мегафон-С.Петербург",
+                        "img": "/files_docum_content_schema/17_docc_fld4.jpg",
+                        "schema_id": 17
+                    },
+                    {
+                        "text": "Мегафон-Северный Кавказ",
+                        "img": "/files_docum_content_schema/18_docc_fld4.jpg",
+                        "schema_id": 18
+                    },
+                    {
+                        "text": "Мегафон-Сибирь",
+                        "img": "/files_docum_content_schema/19_docc_fld4.jpg",
+                        "schema_id": 19
+                    },
+                    {
+                        "text": "Мегафон-Урал",
+                        "img": "/files_docum_content_schema/20_docc_fld4.jpg",
+                        "schema_id": 20
+                    }
+                ]
+            },
+            {
+                "ids": "7",
+                "text": "SkyLink",
+                "img": "/files_docum_content_sprav/7_docc_fld3.jpg",
+                "menu": [
+                    {
+                        "text": "Скайлинк Удмуртия",
+                        "img": "/files_docum_content_schema/28_docc_fld4.jpg",
+                        "schema_id": 28
+                    }
+                ]
+            },
+            {
+                "ids": "8",
+                "text": "Смартс",
+                "img": "/files_docum_content_sprav/8_docc_fld3.jpg",
+                "menu": [
+                    {
+                        "text": "СМАРТС Казань",
+                        "img": "/files_docum_content_schema/21_docc_fld4.jpg",
+                        "schema_id": 21
+                    },
+                    {
+                        "text": "СМАРТС Астрахань",
+                        "img": "/files_docum_content_schema/22_docc_fld4.jpg",
+                        "schema_id": 22
+                    },
+                    {
+                        "text": "СМАРТС Пенза",
+                        "img": "/files_docum_content_schema/23_docc_fld4.jpg",
+                        "schema_id": 23
+                    },
+                    {
+                        "text": "СМАРТС Самара",
+                        "img": "/files_docum_content_schema/24_docc_fld4.jpg",
+                        "schema_id": 24
+                    },
+                    {
+                        "text": "СМАРТС Чебоксары",
+                        "img": "/files_docum_content_schema/25_docc_fld4.jpg",
+                        "schema_id": 25
+                    },
+                    {
+                        "text": "СМАРТС Ярославль",
+                        "img": "/files_docum_content_schema/26_docc_fld4.jpg",
+                        "schema_id": 26
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": "60",
+        "text": "Телевидение",
+        "img": "/files_docum_content_sprav/60_docc_fld3.jpg",
+        "menu": [
+            {
+                "text": "МТС Телевидение",
+                "img": "/files_docum_content_schema/11_docc_fld4.jpg",
+                "schema_id": 11
+            },
+            {
+                "text": "Таттелеком",
+                "img": "/files_docum_content_schema/12_docc_fld4.jpg",
+                "schema_id": 12
+            },
+            {
+                "text": "Телекарта",
+                "img": "/files_docum_content_schema/29_docc_fld4.jpg",
+                "schema_id": 29
+            },
+            {
+                "text": "Триколор",
+                "img": "/files_docum_content_schema/30_docc_fld4.jpg",
+                "schema_id": 30
+            },
+            {
+                "text": "НТВ-плюс",
+                "img": "/files_docum_content_schema/31_docc_fld4.jpg",
+                "schema_id": 31
+            },
+            {
+                "text": "ЭР-Телеком (Дом.ру)",
+                "img": "/files_docum_content_schema/32_docc_fld4.jpg",
+                "schema_id": 32
+            },
+            {
+                "text": "Ростелеком МРФ Волга",
+                "img": "/files_docum_content_schema/35_docc_fld4.jpg",
+                "schema_id": 35
+            }
+        ]
+    },
+
+    {
+        "id": "61",
+        "text": "Интернет",
+        "img": "/files_docum_content_sprav/61_docc_fld3.jpg",
+        "menu": [
+            {
+                "text": "МТС Интернет",
+                "img": "/files_docum_content_schema/9_docc_fld4.jpg",
+                "schema_id": 9
+            },
+            {
+                "text": "Таттелеком",
+                "img": "/files_docum_content_schema/13_docc_fld4.jpg",
+                "schema_id": 13
+            },
+            {
+                "text": "YOTA Интернет",
+                "img": "/files_docum_content_schema/27_docc_fld4.jpg",
+                "schema_id": 27
+            },
+            {
+                "text": "ЭР-Телеком (Дом.ру)",
+                "img": "/files_docum_content_schema/33_docc_fld4.jpg",
+                "schema_id": 33
+            },
+            {
+                "text": "Ростелеком МРФ Волга",
+                "img": "/files_docum_content_schema/36_docc_fld4.jpg",
+                "schema_id": 36
+            },
+            {
+                "text": "Интернет Билайн",
+                "img": "/files_docum_content_schema/38_docc_fld4.jpg",
+                "schema_id": 38
+            },
+            {
+                "text": "МЭЛТ Интернет",
+                "img": "/files_docum_content_schema/39_docc_fld4.jpg",
+                "schema_id": 39
+            }
+        ]
+    },
+
+    {
+        "id": "62",
+        "text": "Фиксированная связь",
+        "img": "/files_docum_content_sprav/62_docc_fld3.jpg",
+        "menu": [
+            {
+                "text": "МТС Телефония",
+                "img": "/files_docum_content_schema/10_docc_fld4.jpg",
+                "schema_id": 10
+            },
+            {
+                "text": "Таттелеком",
+                "img": "/files_docum_content_schema/14_docc_fld4.jpg",
+                "schema_id": 14
+            },
+            {
+                "text": "ЭР-Телеком (Дом.ру)",
+                "img": "/files_docum_content_schema/34_docc_fld4.jpg",
+                "schema_id": 34
+            },
+            {
+                "text": "Ростелеком МРФ Волга",
+                "img": "/files_docum_content_schema/37_docc_fld4.jpg",
+                "schema_id": 37
+            },
+            {
+                "text": "МЭЛТ Телефония",
+                "img": "/files_docum_content_schema/40_docc_fld4.jpg",
+                "schema_id": 40
+            }
+        ]
+    },
+
+    {
+        "id": "57",
+        "text": "ГИБДД Татарстан",
+        "img": "/files_docum_content_sprav/57_docc_fld3.jpg",
+        "menu": [
+            {
+                "text": "Оплата штрафа ГИБДД (Татарстан)",
+                "img": "/files_docum_content_schema/43_docc_fld4.jpg",
+                "schema_id": 43
+            },
+            {
+                "text": "Регистрационные действия АМТС (Татарстан)",
+                "img": "/files_docum_content_schema/48_docc_fld4.jpg",
+                "schema_id": 48
+            },
+            {
+                "text": "Изготовление дубликата гос.рег.знака",
+                "img": "/files_docum_content_schema/51_docc_fld4.jpg",
+                "schema_id": 51
+            },
+            {
+                "ids": "58",
+                "text": "Поиск и оплата штрафов ГИБДД (Татарстан)",
+                "img": "/files_docum_content_sprav/58_docc_fld3.jpg",
+                "menu": [
+                    {
+                        "text": "Поиск и оплата штрафов ГИБДД по Гос.Номеру автомобиля (Татарстан)",
+                        "img": "/files_docum_content_schema/75_docc_fld4.jpg",
+                        "schema_id": 75
+                    },
+                    {
+                        "text": "Поиск и оплата штрафов ГИБДД по Гос.Номеру автомобиля (Татарстан)",
+                        "img": "/files_docum_content_schema/42_docc_fld4.jpg",
+                        "schema_id": 42
+                    },
+                    {
+                        "text": "Поиcк и оплата штрафов ГИБДД по УИН (Татарстан)",
+                        "img": "/files_docum_content_schema/44_docc_fld4.jpg",
+                        "schema_id": 44
+                    },
+                    {
+                        "text": "Поиcк и оплата штрафов ГИБДД по протоколу (Татарстан)",
+                        "img": "/files_docum_content_schema/45_docc_fld4.jpg",
+                        "schema_id": 45
+                    }
+                ]
+            },
+            {
+                "ids": "67",
+                "text": "ТЕХОСМОТР",
+                "img": "/files_docum_content_sprav/67_docc_fld3.jpg",
+                "menu": [
+                    {
+                        "text": "Техосмотр (ОАО Таттехконтроль)",
+                        "img": "/files_docum_content_schema/49_docc_fld4.jpg",
+                        "schema_id": 49
+                    },
+                    {
+                        "text": "Талон токсичности (ООО Татавтотех)",
+                        "img": "/files_docum_content_schema/50_docc_fld4.jpg",
+                        "schema_id": 50
+                    }
+                ]
+            },
+            {
+                "ids": "70",
+                "text": "Экспертное исследование",
+                "img": "/files_docum_content_sprav/70_docc_fld3.jpg",
+                "menu": [
+                    {
+                        "text": "Подготовка к экспертизе легковых автомобилей",
+                        "img": "/files_docum_content_schema/59_docc_fld4.jpg",
+                        "schema_id": 59
+                    },
+                    {
+                        "text": "Подготовка к экспертизе мотоциклов, мопедов.",
+                        "img": "/files_docum_content_schema/60_docc_fld4.jpg",
+                        "schema_id": 60
+                    },
+                    {
+                        "text": "Подготовка к экспертизе автобусов, грузовых автомобилей",
+                        "img": "/files_docum_content_schema/61_docc_fld4.jpg",
+                        "schema_id": 61
+                    },
+                    {
+                        "text": "Подготовка к экспертизе легковых автомобилей с хим.травлением",
+                        "img": "/files_docum_content_schema/62_docc_fld4.jpg",
+                        "schema_id": 62
+                    },
+                    {
+                        "text": "Подготовка к экспертизе автобусов, грузовых автомобилей с хим.травлением",
+                        "img": "/files_docum_content_schema/63_docc_fld4.jpg",
+                        "schema_id": 63
+                    },
+                    {
+                        "text": "Изготовление фотоснимков транспортного средства",
+                        "img": "/files_docum_content_schema/64_docc_fld4.jpg",
+                        "schema_id": 64
+                    },
+                    {
+                        "text": "Изготовление фотоснимков маркировочных площадок ТС",
+                        "img": "/files_docum_content_schema/65_docc_fld4.jpg",
+                        "schema_id": 65
+                    }
+                ]
+            },
+            {
+                "ids": "66",
+                "text": "ОАО БДД (Штрафстоянки)",
+                "img": "/files_docum_content_sprav/66_docc_fld3.jpg",
+                "menu": [
+                    {
+                        "text": "Оплата штрафстоянки",
+                        "img": "/files_docum_content_schema/52_docc_fld4.jpg",
+                        "schema_id": 52
+                    },
+                    {
+                        "text": "Погрузочно-разгрузочные работы",
+                        "img": "/files_docum_content_schema/53_docc_fld4.jpg",
+                        "schema_id": 53
+                    },
+                    {
+                        "text": "Перемещение траспортного средства",
+                        "img": "/files_docum_content_schema/54_docc_fld4.jpg",
+                        "schema_id": 54
+                    },
+                    {
+                        "text": "Эвакуация ТС",
+                        "img": "/files_docum_content_schema/55_docc_fld4.jpg",
+                        "schema_id": 55
+                    },
+                    {
+                        "text": "Гостевая стоянка",
+                        "img": "/files_docum_content_schema/56_docc_fld4.jpg",
+                        "schema_id": 56
+                    }
+                ]
+            },
+            {
+                "ids": "69",
+                "text": "ГБУ БДД (Весовой контроль)",
+                "img": "/files_docum_content_sprav/69_docc_fld3.jpg",
+                "menu": [
+                    {
+                        "text": "За вред при перевозке тяжеловесного груза по дорогам РТ",
+                        "img": "/files_docum_content_schema/57_docc_fld4.jpg",
+                        "schema_id": 57
+                    },
+                    {
+                        "text": "Госпошлина за выдачу разрешений",
+                        "img": "/files_docum_content_schema/58_docc_fld4.jpg",
+                        "schema_id": 58
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": "63",
+        "text": "ГИБДД России",
+        "img": "/files_docum_content_sprav/63_docc_fld3.jpg",
+        "menu": [
+            {
+                "text": "Поиск задолженности в ГИС ГМП по УИН",
+                "img": "/files_docum_content_schema/69_docc_fld4.jpg",
+                "schema_id": 69
+            },
+            {
+                "text": "Поиск задолженности в ГИС ГМП по ИНН",
+                "img": "/files_docum_content_schema/66_docc_fld4.jpg",
+                "schema_id": 66
+            },
+            {
+                "text": "Поиск задолженности в ГИС ГМП по серии и номеру свид-ва рег.ТС",
+                "img": "/files_docum_content_schema/67_docc_fld4.jpg",
+                "schema_id": 67
+            },
+            {
+                "text": "Поиск задолженности в ГИС ГМП по водительскому удостоверению",
+                "img": "/files_docum_content_schema/79_docc_fld4.jpg",
+                "schema_id": 79
+            },
+            {
+                "text": "Оплата задолженности в ГИС ГМП",
+                "img": "/files_docum_content_schema/68_docc_fld4.jpg",
+                "schema_id": 68
+            }
+        ]
+    },
+
+    {
+        "id": "73",
+        "text": "Разное",
+        "img": "/files_docum_content_sprav/73_docc_fld3.jpg",
+        "menu": [
+            {
+                "text": "Орифлейм",
+                "img": "..",
+                "schema_id": 83
+            },
+            {
+                "text": "Фаберлик",
+                "img": "..",
+                "schema_id": 84
+            },
+            {
+                "text": "Биглион",
+                "img": "..",
+                "schema_id": 85
+            },
+            {
+                "text": "AVON (Эйвон)",
+                "img": "..",
+                "schema_id": 86
+            },
+            {
+                "text": "Мир танков / Мир самолетов / Мир кораблей",
+                "img": "..",
+                "schema_id": 88
+            },
+            {
+                "text": "Mary Kay (Мэри Кей)",
+                "img": "..",
+                "schema_id": 89
+            },
+            {
+                "text": "Билеты Авиа, Ж/Д, бронь отелей",
+                "img": "..",
+                "schema_id": 90
+            }
+        ]
+    },
+
+    {
+        "id": "75",
+        "text": "ООО 'Галлери-мобайл'",
+        "img": "/files_docum_content_sprav/75_docc_fld3.jpg",
+        "menu": [
+            {
+                "text": "Пополнение транспортной карты",
+                "img": "/files_docum_content_schema/70_docc_fld4.jpg",
+                "schema_id": 70
+            },
+            {
+                "text": "Заявление о прекращении договора ОСАГО",
+                "img": "/files_docum_content_schema/82_docc_fld4.jpg",
+                "schema_id": 82
+            },
+            {
+                "text": "Арендная плата рынок БИГЗУР",
+                "img": "/files_docum_content_schema/87_docc_fld4.jpg",
+                "schema_id": 87
+            }
+        ]
+    },
+
+    {
+        "id": "108",
+        "text": "Банковские операции (кредиты)",
+        "img": "/files_docum_content_sprav/108_docc_fld3.jpg",
+        "menu": [
+            {
+                "text": "Мультибанковский кредитный шлюз до 15 т.р.",
+                "img": "/files_docum_content_schema/41_docc_fld4.jpg",
+                "schema_id": 41
+            }
+        ]
+    },
+
+    {
+        "id": "191",
+        "text": "Школы",
+        "img": "/files_docum_content_sprav/191_docc_fld3.jpg",
+        "menu": [
+            {
+                "text": "Образовательная карта г.Казани",
+                "img": "/files_docum_content_schema/77_docc_fld4.jpg",
+                "schema_id": 77
+            }
+        ]
+    },
+
+    {
+        "id": "194",
+        "text": "Садики",
+        "img": "/files_docum_content_sprav/194_docc_fld3.jpg",
+        "menu": [
+            {
+                "text": "Оплата за детский сад г. Казань",
+                "img": "/files_docum_content_schema/78_docc_fld4.jpg",
+                "schema_id": 78
+            }
+        ]
+    },
+
+    {
+        "id": "130",
+        "text": "ЖКХ",
+        "img": "/files_docum_content_sprav/130_docc_fld3.jpg",
+        "menu": [
+            {
+                "text": "ЖКХ Татарстан",
+                "img": "/files_docum_content_schema/71_docc_fld4.jpg",
+                "schema_id": 71
+            },
+            {
+                "text": "ГАЗ Татарстан",
+                "img": "/files_docum_content_schema/72_docc_fld4.jpg",
+                "schema_id": 72
+            },
+            {
+                "text": "Татэнергосбыт Татарстан",
+                "img": "/files_docum_content_schema/73_docc_fld4.jpg",
+                "schema_id": 73
+            },
+            {
+                "text": "ЖКХ передача показаний счетчиков",
+                "img": "/files_docum_content_schema/74_docc_fld4.jpg",
+                "schema_id": 74
+            },
+            {
+                "ids": "187",
+                "text": "ЖКХ",
+                "img": "/files_docum_content_sprav/187_docc_fld3.jpg",
+                "menu": [
+                    {
+                        "text": "ООО 'ЕРЦ г.Казани'",
+                        "img": "/files_docum_content_schema/76_docc_fld4.jpg",
+                        "schema_id": 76
+                    },
+                    {
+                        "text": "ООО УК ДомСервис+",
+                        "img": "/files_docum_content_schema/91_docc_fld4.jpg",
+                        "schema_id": 91
+                    }
+                ]
+            }
+        ]
+    }
+
+]}
